@@ -1,0 +1,229 @@
+{
+	"items": [
+		{
+			"name": "userActions",
+			"data": []
+		},
+		{
+			"name": "UserProfileInfo",
+			"data": {
+				"@odata.context": "https://substrate.office.com/profileb2/v2.0/users/0003bffe-b3b1-367c-0000-000000000000@84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa/$metadata#profile(accounts(),addresses(),anniversaries(),directoryExtensionAttributes(),educationalActivities(),names(),emails(),notes(),interests(),languages(),phones(),positions(),projects(),responsibilities(),skills(),topics(),webAccounts(),websites(),awards(),publications(),patents(),certifications(),extensions(),photos(),profileVideoMetadata(),summary(),directories())",
+				"profileId": "profileId",
+				"freshnessTag": "FT-PAPI-View-958375915f114c0db6075bf274177257",
+				"lastModifiedDateTime": "2026-06-16T20:45:35.3310292Z",
+				"activities": [],
+				"accounts": [
+					{
+						"ageGroup": "Adult",
+						"countryCode": "KE",
+						"userPrincipalName": "spelldctr@outlook.com",
+						"externalDirectoryObjectId": "",
+						"alias": "",
+						"exchangeAccountType": null,
+						"exchangeAccountTypeDetails": null,
+						"cid": -4471582237606222000,
+						"puid": 1055525587465852,
+						"userType": null,
+						"accountEnabled": null,
+						"isSipEnabled": null,
+						"profileMemberType": null,
+						"userPersona": null,
+						"searchableByProfile": null,
+						"isTeamsForLifeUser": null,
+						"allowedAudiences": "me",
+						"createdDateTime": "2026-06-16T20:45:35.1522792Z",
+						"lastModifiedDateTime": "2026-06-16T20:45:35.1522796Z",
+						"id": "43f64843-6db9-47d1-ba68-f093e6539b42",
+						"isSearchable": false,
+						"preferredLanguageTag": {
+							"locale": "en-US",
+							"displayName": "English (United States)"
+						},
+						"originTenantInfo": null,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "Directory",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "Directory",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"MSA"
+							]
+						},
+						"sources": [
+							{
+								"id": "9a3e0ce2-cf4b-477e-b3b3-df246318e251"
+							}
+						]
+					}
+				],
+				"addresses": [],
+				"anniversaries": [],
+				"directoryExtensionAttributes": [],
+				"educationalActivities": [],
+				"names": [
+					{
+						"displayName": "",
+						"first": "spell",
+						"initials": null,
+						"last": "doctor",
+						"languageTag": null,
+						"maiden": null,
+						"middle": null,
+						"nickname": null,
+						"suffix": null,
+						"title": null,
+						"allowedAudiences": "organization, federatedOrganizations",
+						"createdDateTime": "2026-06-16T20:45:35.152279Z",
+						"lastModifiedDateTime": "2026-06-16T20:45:35.1522791Z",
+						"id": "6b582831-b12e-4295-9ae8-ae4ac053adf7",
+						"isSearchable": false,
+						"pronunciation": null,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "Directory",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "Directory",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"MSA"
+							]
+						},
+						"sources": [
+							{
+								"id": "9a3e0ce2-cf4b-477e-b3b3-df246318e251"
+							}
+						]
+					}
+				],
+				"emails": [
+					{
+						"address": "spelldctr@outlook.com",
+						"displayName": null,
+						"type": "personal",
+						"allowedAudiences": "me",
+						"createdDateTime": "2026-06-19T13:17:18.8497351Z",
+						"lastModifiedDateTime": "2026-06-19T13:17:18.8497352Z",
+						"id": "3c57b678-40cd-482e-aa41-8a976914f500",
+						"isSearchable": false,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "Directory",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "Directory",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"MSA"
+							]
+						},
+						"sources": [
+							{
+								"id": "9a3e0ce2-cf4b-477e-b3b3-df246318e251"
+							}
+						]
+					}
+				],
+				"notes": [],
+				"interests": [],
+				"languages": [],
+				"phones": [],
+				"positions": [],
+				"projects": [],
+				"responsibilities": [],
+				"skills": [],
+				"topics": [],
+				"webAccounts": [],
+				"websites": [],
+				"awards": [],
+				"publications": [],
+				"patents": [],
+				"certifications": [],
+				"extensions": [],
+				"photos": [],
+				"profileVideoMetadata": {
+					"profileVideoUrl": null,
+					"allowedAudiences": "me",
+					"createdDateTime": "2026-06-19T13:17:28.9054228Z",
+					"lastModifiedDateTime": "2026-06-19T13:17:28.9054228Z",
+					"id": "495bb137-954b-40b9-bb6d-a0867c624bda",
+					"isSearchable": false,
+					"createdBy": {
+						"user": null,
+						"application": null,
+						"device": null
+					},
+					"inference": null,
+					"lastModifiedBy": {
+						"user": null,
+						"application": null,
+						"device": null
+					},
+					"source": {
+						"type": []
+					},
+					"sources": []
+				},
+				"summary": null,
+				"directories": []
+			}
+		},
+		{
+			"name": "PeopleHighlights",
+			"data": []
+		},
+		{
+			"name": "CommunicationMemory",
+			"data": {}
+		},
+		{
+			"name": "Pronouns",
+			"data": []
+		},
+		{
+			"name": "PeopleAgentFavoritePeople",
+			"data": [
+				"0003bffe-b3b1-367c-0000-000000000000"
+			]
+		},
+		{
+			"name": "ConnectorsData",
+			"data": []
+		}
+	]
+}
